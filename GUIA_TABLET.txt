@@ -1,0 +1,44 @@
+RUTAPACK 3.0 — INSTALACION DESDE TABLET ANDROID
+
+1. Descarga RutaPack_3_0_para_GitHub.zip y EXTRAELO en Descargas.
+2. Desde Chrome abre github.com/diamontbell/Rutapack
+3. Toca + (o Add file) > Upload files (Subir archivos).
+4. Elige LOS ARCHIVOS del ZIP descomprimido; NO subas el ZIP completo ni
+   una carpeta que contenga index.html en un nivel inferior.
+5. Deben aparecer index.html, app.js, parser.js, sw.js, icon.svg,
+   manifest.webmanifest y GUIA_TABLET.txt en la carpeta principal de GitHub.
+6. Abajo presiona Commit changes (Confirmar cambios).
+7. Abre https://diamontbell.github.io/Rutapack/ desde tu celular.
+8. Si se abre la version anterior: cierra la pestana y vuelve a abrir, o
+   refresca. Si instalaste la app anteriormente, prueba desde Chrome.
+
+PRUEBA SIN DATOS REALES
+1. Pulsa Activar camara y concede el permiso.
+2. Centra una etiqueta de prueba y pulsa Capturar etiqueta.
+3. Revisa nombre, numero de guia, domicilio del DESTINATARIO.
+4. Corrige cualquier dato incompleto y pulsa Confirmar y guardar.
+5. Con la camara activa sigue con el siguiente paquete (hasta 80).
+6. En Recorrido: pulsa Guardar mi ubicacion actual para obtener el GPS.
+7. En Entregas: pulsa Ver punto, y luego Navegar.
+8. Marca Entregada o Incidencia al completar cada una.
+9. Usa Exportar respaldo para no perder las jornadas. Los respaldos
+   contienen datos personales: mantenlos en un lugar privado.
+
+IMPORTANTE
+- Esta version NO resuelve aun la ruta optima de 80 destinos ni calcula
+  trafico real. Agrupar por codigo postal NO es optimizacion real.
+- Google Maps puede localizar una calle de forma imprecisa: siempre
+  confirma el marcador antes de conducir.
+- El reconocimiento funciona en el navegador. La primera vez descarga
+  librerias OCR y del escaner desde Internet.
+- El lector de codigos puede no detectar todas las etiquetas; el OCR
+  aun permite leer la direccion y escribir la guia manualmente.
+- Los datos se guardan localmente en este navegador; no sincroniza entre
+  dispositivos. Los datos NO se cargan al repositorio de GitHub.
+- Nunca subas etiquetas reales, nombres, domicilios o respaldos a un
+  repositorio publico.
+
+PRIVACIDAD Y LIMITACIONES
+Para 50 a 80 paradas con calculo del menor tiempo en automovil y regreso
+al inicio se necesita una fase adicional de geocodificacion y optimizacion
+de rutas mediante un servicio protegido; este prototipo no la simula.
