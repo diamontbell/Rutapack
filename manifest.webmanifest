@@ -1,0 +1,1 @@
+{"name":"RutaPack - Entregas","short_name":"RutaPack","description":"Escanea etiquetas, revisa domicilios y navega con Google Maps","start_url":"./","scope":"./","display":"standalone","background_color":"#f2f5fa","theme_color":"#143b65","icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}

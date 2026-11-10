@@ -1,0 +1,10 @@
+RutaPack PWA 1.0
+1. Descomprime el ZIP.
+2. Crea un repositorio de GitHub, por ejemplo rutapack, preferentemente PRIVADO para trabajo de desarrollo. GitHub Pages en cuentas gratuitas puede requerir repositorio público: antes de publicar, revisa la visibilidad y nunca incluyas datos reales de clientes en archivos del repositorio.
+3. Sube index.html, app.js, sw.js, manifest.webmanifest e icon.svg a la raíz del repositorio.
+4. En Settings > Pages, elige Deploy from a branch, main, /(root), Save.
+5. Abre el enlace HTTPS que GitHub Pages muestre en el celular con Chrome. Agregar a pantalla de inicio > Instalar (si aparece).
+6. Permite cámara, toma una foto de una etiqueta de PRUEBA, pulsa Leer texto, revisa/corrige dirección y pulsa Abrir Google Maps.
+7. La biblioteca OCR se carga desde CDN y puede necesitar conexión. Google Maps también necesita conexión para navegar. La dirección sugerida puede contener texto sobrante.
+8. Las entregas se guardan en localStorage; usa Exportar respaldo para evitar pérdidas.
+No subas datos personales reales a repositorios públicos ni compartas respaldos con terceros.
